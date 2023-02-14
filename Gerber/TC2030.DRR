@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TC2030.PcbDoc   14.02.2023  2:27:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : TC2030-Plated.TXT
+ASCII Non-Plated RoundHoles File : TC2030-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             12        PTH        17.49mm (0.69inch)
+T2      0.8mm (31mil)                                             Round             6         PTH        19.33mm (0.76inch)
+T3      0.4mm (16mil)                                             Round             12        NPTH       23.44mm (0.92inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:00
