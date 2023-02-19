@@ -44,7 +44,7 @@ length on both sides.
 
 ![Wire joints](wire-joints.jpg "Wire joints")
 
-6. Adjust the heat-shrink to the case top cutout and shrink.  
+6. Align the heat-shrink with the case's wire entry undercut and shrink.  
 7. Insert the assembly into one half of the case; apply CA glue to the case pegs, put on second half, gently squeeze the thing in a vise, and let the glue to cure.
 8. Put 6mm heat-shrink tubing over bottom PCB and wire joints, then shrink.
 9. Terminate other ends of the wires as your flavor.  
